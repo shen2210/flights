@@ -1,0 +1,34 @@
+Hãy khai báo kiểu dữ liệu để biểu diễn thông tin của 1 chuyến bay. Biết rằng 1 chuyến bay gồm những:
+- Mã chuyến bay: chuỗi tối đa 5 ký tự
+- Họ tên hàng khách: chuỗi tối đa 30 ký tự
+- Ngày bay: chuỗi định dạng: -VD: 30/04/2019
+- Giờ bay: chuỗi định dạng: -VD: 20:39:67
+- Nơi đi: chuỗi tối đa 20 ký tự
+- Nơi đến: chuỗi tối đa 20 ký tự
+
+1. Nhập danh sách thông tin các chuyến bay
+2. Xuất danh sách thông tin các chuyến bay
+3. Xóa chuyến bay có mã chuyến bay bất kỳ
+4. Thêm chuyến bay mới vào danh sách
+5. Sắp xếp danh sách chuyến bay tăng dần theo năm bay
+6. Tìm kiếm các chuyến bay có ngày bất kỳ
+7. Tìm kiếm các chuyến bay có ma chuyen bay bất kỳ
+8. Tìm kiếm các chuyến bay trong khoảng thời gian (X,Y) cho trước
+9. Tìm kiếm thông tin chuyến bay có họ tên hành khách có chữ cái trong họ tên trùng với sâu x cần tìm kiếm
+vd: x="t"
+=> "teo"
+=> "tuan"
+=> "thuy"
+
+vd: x="n"
+=> "an"
+=> "anh"
+=> "tuan"
+
+vd: x="nh"
+=> "anh"
+=> "nhung"
+=> "nhan"
+
+10. Bắt hết các lỗi ràng buộc dữ liệu có thể xảy ra
+  
